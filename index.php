@@ -15,7 +15,7 @@ include "includes_php/head.php";
  <div class="contenedor">
     <div class="cont">
       <div class="ancho">
-      <h1>¿Qué es el <span class="amarillo"> <br> CROSSFIT</span>?</h1>
+      <h1>¿Qué es el<span class="amarillo"> <br> CROSSFIT</span>?</h1>
       <p class="amarillo2">Es un programa de fuerza y preparación física general donde se entrenan todas las cualidades físicas con el objetivo de mejorar la condición física y la salud de las personas.</p>
       </div>
     </div>
